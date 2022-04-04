@@ -1,7 +1,7 @@
 baseURL = 'http://scuffedbytes.com'
 languageCode = 'en-us'
 title = 'ScuffedBytes'
-theme = 'manis'
+theme = 'manis-hugo-theme'
 
 paginate = 10
 pygmentsCodeFences = true
